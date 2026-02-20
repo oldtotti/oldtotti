@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oldtotti
 - 👀 I’m interested in Linux 
-- 🌱 I’m currently learning Bash
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me nxt2@gmx.de
 
