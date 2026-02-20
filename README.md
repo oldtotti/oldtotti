@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nxt2@gmx.de
+- 📫 How to reach me vergnuegen@mailbox.org
 
 <!---
 oldtotti/oldtotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
